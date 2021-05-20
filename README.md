@@ -7,3 +7,4 @@ We want to build a website which acts as a guide to treat mild and moderate case
 <img src="https://github.com/ahcsss21/E-yantra-2021/blob/main/Process%20flow.PNG">
  <h3>Data Flow Process</h3>
  <img src="https://github.com/ahcsss21/E-yantra-2021/blob/main/Data%20Flow%20process.PNG">
+ <h4>Note:In the attached zip folder,index.html is our main page.</h4>
